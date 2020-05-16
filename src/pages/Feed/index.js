@@ -48,7 +48,7 @@ export default function Feed(){
     }, []);
 
     return(
-        <View>
+        <View style={{backgroundColor: "#036", padding: 1,}}>
             <FlatList
                 data={feed}
                 keyExtractor={post => String(post.id)}
