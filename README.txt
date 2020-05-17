@@ -1,3 +1,4 @@
+**APENAS PARA EMULAÇÂO VIA USB**
 INICIAR O APP:
 -Executar o arquivo "IniciarServer.sh" usando:
 	./IniciarServer.sh

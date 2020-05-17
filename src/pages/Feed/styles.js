@@ -1,20 +1,19 @@
 import styled from 'styled-components';
+import { StyleSheet } from 'react-native';
 
 export const Post = styled.View`
-    margin-top: 90px;
+
     background: #FFF;
     flex: 1;
     border-radius: 6px;
-    margin: 0 10px;
     height: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
-    margin-bottom: 5px;
+    width: 100%;
+    border-bottom-width: 1px;
+    border-bottom-color: #036;
 `;
 
 export const Header = styled.View`
-    padding: 15px;
+    padding: 10px;
     flex-direction: row;
     align-items: center;
 `;

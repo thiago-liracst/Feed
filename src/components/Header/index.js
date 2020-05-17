@@ -6,7 +6,7 @@ export default function Header(){
     return(
         <Container>
             <Top>
-                <Title>Feed</Title>
+                <Title>AppZinho</Title>
             </Top>
         </Container>
     );
